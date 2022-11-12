@@ -7,10 +7,8 @@
 - 📫 How to reach me ...
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=wdndev&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdndev&layout=compact" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdndev&show_icons=true" /> 
 
-<img align="left" src="https://raw.githubusercontent.com/wdndev/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
-<img src="https://raw.githubusercontent.com/wdndev/github-stats/master/generated/languages.svg#gh-light-mode-only" /> 
 
 
 <!---
