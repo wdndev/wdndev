@@ -7,14 +7,8 @@
 - 📫 How to reach me ...
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=wdndev&show_icons=true">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdndev&layout=compact)](https://github.com/wdndev/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdndev&layout=compact" /> 
 
-### Hi there 🍨
-
-I'm a Java developer. I'd like to make some contributions for Java open source and share some thoughts on my blog and github.
-
-<img align="left" src="https://raw.githubusercontent.com/shiyindaxiaojie/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
-<img src="https://raw.githubusercontent.com/shiyindaxiaojie/github-stats/master/generated/languages.svg#gh-light-mode-only" /> 
 
 <!---
 wdndev/wdndev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
