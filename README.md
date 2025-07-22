@@ -1,6 +1,6 @@
 ### Hi  there 🍨
 
-- 👋 Hi, I’m Dongnian Wang.
+- 👋 Hi, I’m Firefly.
 - 👀 I’m a student in Northeastern University.
 - 🌱 I’m currently learning Deep Learning and Reinforce Learning.
 - 💞️ I usually think up to write some [personal blog](https://wdndev.github.io/), welcome comments exchange.
