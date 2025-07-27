@@ -6,10 +6,15 @@
 - 💞️ I usually think up to write some [personal blog](https://wdndev.github.io), welcome comments exchange.
 
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=wdndev&show_icons=true&include_all_commits=true" alt="wdndev's github stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdndev&layout=compact" alt="Quiec's github stats">
+<div style="display: flex; align-items: center; gap: 40px; margin: 10px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=wdndev&show_icons=true&include_all_commits=true" 
+       alt="wdndev's github stats" 
+       style="vertical-align: middle;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdndev&layout=compact" 
+       alt="Quiec's github stats" 
+       style="vertical-align: middle;">
 </div>
+
 
 
 
